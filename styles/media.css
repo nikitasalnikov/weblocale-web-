@@ -1,0 +1,249 @@
+@media (max-width:1380px) {
+    .menu__form {
+        margin-left: 100px;
+    }
+    .plans__cards {
+        flex-wrap: wrap;
+    }
+    .card {
+        width: 320px !important;
+        padding: 20px;
+    }
+    .card-text {
+        font-size: 12px;
+        line-height: 15px;
+    }
+}
+
+@media (max-width:1300px) {
+    .feauters__text {
+        margin-left: 70px;
+    }
+    .feauters__text2 {
+        margin-right: 70px;
+    }
+    .menu__form {
+        margin-left: 60px;
+    }
+    .feedback__cards {
+        flex-wrap: wrap;
+        align-items: center;
+    }
+    .feedback__cards-right {
+        margin: 0 auto;
+        margin-top: 40px;
+    }
+}
+
+@media (max-width:1250px) {
+    .feature__title {
+        width: 396px;
+        font-size: 20px;
+    }
+    .feauters__text {
+        margin-left: 60px;
+    }
+    .feature__par {
+        font-size: 12px;
+        width: 100%;
+    }
+    .feauters__text2 {
+        margin-right: 0;
+    }
+    .graphic__features img {
+        width: 45% !important;
+    }
+    .header__menu img {
+        width: 45% !important;
+    }
+}
+
+@media (max-width:1125px) {
+    .footer__btn {
+        padding: 15px 35px;
+    }
+}
+
+@media (max-width:1110px) {
+    .plans__card:nth-of-type(4) {
+        margin-top: 25px;
+    }
+}
+
+@media (max-width:1040px) {
+    .menu__title {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    .features__cards {
+        flex-wrap: wrap;
+    }
+    .feauters__card {
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width:995px) {
+    .partners__title {
+        justify-content: center;
+    }
+}
+
+@media (max-width:970px) {
+    .feedback__cards {
+        flex-direction: column;
+    }
+    .feedback__cards-centre {
+        margin-top: 40px;
+    }
+    .customer__name {
+        margin-left: 20px;
+    }
+}
+
+@media (max-width:850px) {
+    .header__menu {
+        flex-direction: column;
+        align-items: center;
+    }
+    .graphic__features-1,
+    .graphic__features-2,
+    .graphic__features-3 {
+        flex-direction: column;
+    }
+    .graphic__features-1 {
+        margin-bottom: -120px;
+    }
+    .feauters__text2 {
+        margin-right: -50px;
+    }
+    .graphic__features img {
+        margin-left: 15px;
+    }
+    .feedback__title {
+        width: 100%;
+    }
+}
+
+@media (max-width:837px) {
+    .plans__card:nth-of-type(3) {
+        margin-top: 25px;
+    }
+}
+
+@media (max-width:570px) {
+    .pricing__par {
+        width: 430px;
+    }
+    .faq__par {
+        width: 430px;
+    }
+    .feedback__title {
+        font-size: 16px;
+        line-height: 25px;
+        margin-bottom: 50px;
+    }
+    .plans__cards {
+        flex-direction: column;
+        align-items: center;
+    }
+    .plans__card:nth-of-type(2) {
+        margin-top: 25px;
+    }
+    .features__cards {
+        flex-direction: column;
+        align-items: center;
+    }
+    .feature__title {
+        width: 100%;
+    }
+    .customers__feedback {
+        padding: 30px 70px;
+    }
+    .menu__form {
+        margin-left: 15px;
+    }
+}
+
+@media (max-width:450px) {
+    .menu__title {
+        font-size: 15px;
+        margin-bottom: 5px;
+        width: 300px;
+    }
+    .menu__par {
+        font-size: 13px;
+    }
+    .menu__name,
+    .menu__email {
+        padding: 17px 0 18px 17px;
+        margin-bottom: 14px;
+    }
+    .input__forms {
+        width: 310px;
+    }
+    .form__btn {
+        width: 310px;
+    }
+    .pricing__par {
+        width: 300px;
+    }
+    .faq__par {
+        width: 300px;
+    }
+    .customers__feedback {
+        padding: 15px 25px;
+    }
+    .card {
+        width: 280px !important;
+        padding: 15px;
+    }
+    .fa-quote-left {
+        color: #DFDFDF;
+        font-size: 20px;
+    }
+    .success__title {
+        font-size: 30px;
+    }
+    .feedback__title {
+        font-size: 15px;
+    }
+    .plans__card-price1 {
+        margin-top: 30px;
+    }
+    .plans__card-price2 {
+        margin-top: 45px;
+    }
+}
+
+@media (max-width:400px) {
+    .feature__title {
+        line-height: 35px;
+        font-size: 15px;
+    }
+    .feauters__text {
+        margin-left: 35px;
+    }
+    .footer__par {
+        width: 120px;
+        font-size: 12px;
+    }
+    .partners__nav {
+        flex-direction: column;
+    }
+}
+
+@media (max-width:350px) {
+    .customers__feedback {
+        padding: 15px 10px;
+    }
+    .input__forms {
+        width: 290px;
+    }
+    .form__btn {
+        width: 290px;
+    }
+    .fa-bars {
+        margin-top: 10px;
+    }
+}
